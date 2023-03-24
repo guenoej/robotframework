@@ -81,7 +81,7 @@
 
     sudo apt install curl
 
- **Install Wget **
+ **Install Wget**
 
     sudo apt install wget
     
